@@ -1,4 +1,9 @@
 
+name : sabair
+DOB:120892
+place: Hyderabad
+
+
 name : Anil Lingolu
 DOB : 19-01-1994
 Place: Hyderabad
@@ -11,5 +16,6 @@ place:Hyderabad
 name : vishweshwar
 DOB: 19071995
 Place : hyderabad
+
 
 
