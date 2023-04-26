@@ -63,3 +63,19 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 9. What is JPA and how does it relate to Spring Data JPA?
 
 JPA (Java Persistence API) is a standard interface for Object-Relational Mapping (ORM) in Java. It provides a set of specifications for mapping Java objects to
+
+
+---
+### Questions only 
+Here are the 10 interview questions for a 3+ years Java developer interviewing for a Spring Boot developer position:
+
+1. What is Spring Boot and how is it different from traditional Spring framework?
+2. Explain the concept of inversion of control and dependency injection in Spring.
+3. What is the role of Spring MVC in a web application?
+4. What is AOP (Aspect-Oriented Programming) and how is it used in Spring?
+5. How do you configure a data source in Spring Boot application?
+6. What are the different types of bean scopes in Spring and how do you define them?
+7. How do you implement security in a Spring Boot application?
+8. How do you handle exceptions in Spring Boot application?
+9. What is Spring Data JPA and how is it used in enterprise applications?
+10. What is Spring Batch and how is it used in enterprise applications?
